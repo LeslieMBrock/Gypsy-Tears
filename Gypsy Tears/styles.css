@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    background-image:url("images/gypsytbg.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-attachment: scroll;
+} 
+
+nav ul {
+    display:flex;
+    justify-content:center;
+    margin:20px;
+    padding:20px;
+}
+
+nav ul li{
+   background-color:linen;
+   border: 2px solid #2f4f4f;
+}
+
+a.nav-link {
+    color:#cd5c5c;
+}
+
+main {
+  Text-align:center;
+}
+
+h1 {
+    text-align:center;
+}
+
+.card {
+    text-align: center;
+    margin-left:32rem; 
+}
+
+
+
